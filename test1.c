@@ -7,5 +7,5 @@ void main()
 
 int checkInventory(int date)
 {
-
+	return;
 }
